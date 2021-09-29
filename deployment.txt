@@ -1,2 +1,2 @@
-Url Deployment : https://landingpage-final-goesananta.herokuapp.com/
-url Repo Github : https://github.com/goesananta/landingpage
+Url Deployment : https://landing-projects.herokuapp.com/
+Url Github : https://github.com/arankus/final-project
