@@ -1,2 +1,2 @@
-Url Deployment : https://landing-projects.herokuapp.com/
+Url Deployment : https://andika-final-project.herokuapp.com/
 Url Github : https://github.com/arankus/final-project
